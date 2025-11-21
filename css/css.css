@@ -1,0 +1,11 @@
+h1{
+    color:blue;
+    border-bottom: 2px solid black;
+    box-shadow: 2px 2px 5px black ;
+}
+p{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333333;
+}  
